@@ -6,6 +6,8 @@ lang: zh-CN
 markdown: kramdown
 permalink: /posts/:title/
 timezone: Asia/Shanghai
+plugins:
+  - jekyll-feed
 exclude:
   - dist
   - README.md
