@@ -1,0 +1,11 @@
+title: 观测笔记
+description: 记录学习、工作与思考的个人博客
+url: "https://fiveblack-water.github.io"
+baseurl: ""
+lang: zh-CN
+markdown: kramdown
+permalink: /posts/:title/
+timezone: Asia/Shanghai
+exclude:
+  - dist
+  - README.md
